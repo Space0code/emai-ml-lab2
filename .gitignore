@@ -1,0 +1,13 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Downloaded datasets (UCI, CIFAR-10)
+data/
+
+# Local-only files
+*.pdf
+.DS_Store
+.claude/
+CLAUDE.md
